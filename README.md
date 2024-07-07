@@ -12,6 +12,8 @@ The project is a simulation of a hotel website, allows you to reserve cabins, re
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-%2336B37E.svg?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
 
+## Pictures
+
 ![scene 1](./public/ghReadme/ph1.jpg)
 ![scene 2](./public/ghReadme/ph2.jpg)
 ![scene 3](./public/ghReadme/ph3.jpg)
